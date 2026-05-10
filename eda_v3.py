@@ -8,7 +8,7 @@ import seaborn as sns
 
 sns.set_theme(style="whitegrid")
 
-OUTPUT_DIR = "output2/"
+OUTPUT_DIR = "output/"
 
 GRD = "grd"
 EDAD = "edad_en_anos"
